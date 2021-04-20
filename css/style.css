@@ -1,0 +1,16 @@
+
+body{
+    
+}
+.titolo{
+  
+   display: inline-block;
+   
+   
+}  
+.logo{
+    height: 80px;
+    line-height:80px;
+    vertical-align:bottom;
+}
+
