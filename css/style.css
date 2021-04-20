@@ -1,16 +1,102 @@
 
 body{
-    
+    background-color:#e0ffd2;
 }
 .titolo{
   
    display: inline-block;
-   
-   
+}
+.testata{
+    background-color: white;
 }  
 .logo{
     height: 80px;
     line-height:80px;
     vertical-align:bottom;
 }
+.contenitore{
+    height: 800px;
+    width: 60%;
+    background-color: white;
+    margin-left: 300px;
+    margin-top: 50px;
+    
+}
+.bottone{
+    margin-top: 20px;
+    margin-left: 40px;
+    background-color: rgb(15, 150, 228);
+    border-radius: 5px;
+    font-size: 15px;
+    color: white;
+}
+.secondo-bottone{
+    margin-top: 20px;
+    margin-left: 3px;
+    background-color: white;
+    border-radius: 5px;
+    font-size: 15px;
+    color:#adec90 ;
+}
+ul{
+    list-style-type: none;
+    margin-top: 25px;
+}
+.lista{
+    font-size: 25px;
+} 
+.seconda-lista{
+    font-size: 20px;
+    margin-top:5px;
+    
+    
+    
+}
 
+.spunta{
+    color: green;
+    
+    
+   
+}
+.rettangoli{
+    background-color: rgb(15, 150, 228); 
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 13px;
+    color: white;
+    vertical-align: bottom;
+    
+}
+.croce{
+    color:red;
+}
+.rettangoli-viola{
+    background-color: rgb(179, 16, 179);
+   
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 13px;
+    color: white;
+    vertical-align: bottom;
+    margin-top: 5px;
+}
+.rettangoli-verde{
+    background-color:green;
+   
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 13px;
+    color: white;
+    vertical-align: bottom;
+}
+.rettangoli-arancio{
+    background-color:orangered;
+   
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 13px;
+    color: white;
+    vertical-align: bottom;
+}
+    
