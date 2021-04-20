@@ -1,24 +1,31 @@
 
 body{
     background-color:#e0ffd2;
+    font-family: Arial, Helvetica, sans-serif;
 }
+/* header */
 .titolo{
   
    display: inline-block;
+   font-size: 40px;
+   font-family: Arial, Helvetica, sans-serif;
 }
+
+  
 .testata{
     background-color: white;
 }  
 .logo{
-    height: 80px;
+    height: 90px;
     line-height:80px;
     vertical-align:bottom;
 }
+/* main */
 .contenitore{
-    height: 800px;
-    width: 60%;
+    height: 700px;
+    width: 70%;
     background-color: white;
-    margin-left: 300px;
+    margin-left: 200px;
     margin-top: 50px;
     
 }
@@ -92,6 +99,24 @@ ul{
 }
 .rettangoli-arancio{
     background-color:orangered;
+   
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 13px;
+    color: white;
+    vertical-align: bottom;
+}
+.rettangoli-magenta{
+    background-color:rgba(255, 0, 85, 0.836);
+   
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 13px;
+    color: white;
+    vertical-align: bottom;
+}
+.rettangoli-verdino{
+    background-color:rgba(14, 226, 14, 0.863);
    
     border-radius: 10px;
     padding: 5px;
